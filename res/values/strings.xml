@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyTimer</string>
+    <string name="myButtonText">开始倒计时</string>
+    <string name="text_select">设置时间</string>
+    
+
+</resources>
